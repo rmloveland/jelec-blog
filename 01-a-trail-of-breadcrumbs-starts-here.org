@@ -1,0 +1,22 @@
+#+DATE: [2011-12-22 Thu 10:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Introductions
+#+TAGS: jelec, first post, magic
+#+DESCRIPTION:
+#+TITLE: A Trail of Breadcrumbs Starts Here
+
+[[./img/01-polar-bear.jpg]]
+
+I'm starting this blog to talk about my new book: *Jelec, the White Bear*, or, /Beware an Encounter with a Raven and his Friends/, which will be going on sale at Amazon (ebook only, thanks) in a few days. As you can probably guess from the title, it's probably a "fantasy" novel (OK, it's /definitely/ a fantasy novel), but as I'll talk about a bit below, there's more than "just" fantasy in there (as if there's any such thing as the "merely" fantastic!).
+
+My intent is to write pretty regularly here, and on a variety of topics, so I won't be just hawking things for people to buy (if you were concerned about that). Though of course I will be talking about fiction, writing, books, all manner of story, /&c/, since that is "right in my wheelhouse," as the baseball announcers like to say.
+
+I'll also be rambling on a bit about mathematics and computers now and then. Nothing too strenuous, mind you. Certainly nothing that a professional math/computer type would write home to Mom about, just little things that catch my fancy from time to time having to do with some fun we can have with numbers and/or computers ("ComputerNumberFun", we might call it).
+
+It also just so happens that mathematics and number (as well as verse, rhyming, and other incantations) play a goodly part in my work, since I'm of the mind that there should be more said about what exactly is magic, and how one goes about doing it, or even getting to a place where one has the skill, and /can/ do it. That doesn't mean I want to iron out every detail about how a wish becomes a thought becomes a magical spell (variously expressed in verse or numerical calculation, depending on context) since that would ruin much of the appeal of magical worlds for me.
+
+In conflict with that desire to explain or to know things about magic (or reality, which is stranger than magic, or which might even /be/ a magic? dunno) is the fact that people, places and things have their own ways, and many of those ways have to do with aspects of reality that we don't understand, that are intrinsic /to/ those particular people, places and things. So I guess there's that as well.
+
+This all sounds (even to me) like I'm leaving out a lot of context, and expecting/hoping the reader will follow along. At this point, perhaps I haven't left enough of a trail of breadcrumbs for you to follow. After all, I've been working on this latest novel for two years or more, and having finished the first book in the series (which is properly called /Adventures from the Realm of the White Bear/), and now being partway into the second, I've been thinking about this mix of "left/right brain", or "logic/intuition,", or "poetry/mathematics" ("yin/yang", anyone?), for a good long while now. So perhaps I'll leave off talking about my own work for right now, pending further writings on the subject (and others that are hopefully of interest), and hope you'll forgive me for running ahead a bit.
+
+[Image courtesy http://www.flickr.com/photos/davidw/]
