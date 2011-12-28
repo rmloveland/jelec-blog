@@ -5,8 +5,6 @@
 #+DESCRIPTION:
 #+TITLE: About
 
-* The Story So Far...
-
 [[img/JELEC_MASTER.jpg]]
 
 I'm the author of the fantasy novel /Jelec, the White Bear, or, Beware an Encounter with a Raven and his Friends/, which is soon to be available on Amazon's Kindle Bookstore.
