@@ -1,9 +1,11 @@
 #+DATE: [2011-12-28 Wed 09:43]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: General
-#+TAGS: jelec, amazon
+#+TAGS: jelec, amazon, kindle
 #+DESCRIPTION:
 #+TITLE: Amazon Royalty Options: Which One is Best for You?
+
+[[./img/02-blue-web.jpg]]
 
 * I: Introduction
 
@@ -119,6 +121,8 @@ Our simple calculations here showed that you would receive about 32% more money 
 Even given all that, it's fair to say that, on average, you will /likely/ receive more money from the 70% option. However, the process by which that occurs will be somewhat more opaque. You will have to think a little more about what is happening with your royalties. You will have to spend a little more time checking Amazon's terms and conditions and pricing pages to ensure that you're staying current on the latest changes (though you'll probably want to do this either way).
  
 Bottom line: for most people, most of the time, the 70% option is worth it.
+
+[Image courtesy http://www.flickr.com/people/toxi/.]
 
 [1] https://kdp.amazon.com/self-publishing/help?topicId=A29FL26OKE7R7B
 
