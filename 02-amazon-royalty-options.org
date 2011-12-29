@@ -7,70 +7,27 @@
 
 * I: Introduction
 
-Like many writers, I'm interested in making my work available on
-Amazon.com's Kindle ebook reader. They've had a direct publishing
-option for some time now, which is called (aptly enough) "Kindle
-Direct Publishing."
+Like many writers, I'm interested in making my work available on Amazon.com's Kindle ebook reader. They've had a direct publishing option for some time now, which is called (aptly enough) "Kindle Direct Publishing."
 
-When you're talking ebooks, there are a number of issues that need to
-be dealt with. These include, but aren't limited to: cover design,
-formatting, illustrations (if any), and the like.
+When you're talking ebooks, there are a number of issues that need to be dealt with. These include, but aren't limited to: cover design, formatting, illustrations (if any), and the like.
 
-One of the thornier ones is the matter of pricing and royalty
-structures.
+One of the thornier ones is the matter of pricing and royalty structures.
 
-Deciding on a price point for your book is a very personal matter, and
-it's a topic I'm still thinking a lot about as I prepare to release my
-own book. I'll most likely be in the under $5
-bracket. There are a few reasons why that feels like a comfortable
-place for me: for one thing, I'm used to buying trade paperbacks of many
-excellent SF&F authors for around $7.99. That's for a nice little
-paperback book with black and white text, color cover, and (maybe)
-a few black and white images inside.
+Deciding on a price point for your book is a very personal matter, and it's a topic I'm still thinking a lot about as I prepare to release my own book. I'll most likely be in the under $5 bracket. There are a few reasons why that feels like a comfortable place for me: for one thing, I'm used to buying trade paperbacks of many excellent SF&F authors for around $7.99. That's for a nice little paperback book with black and white text, color cover, and (maybe) a few black and white images inside.
 
-It could also be the case that a slightly lower
-price point will be enough to get that hypothetical "indecisive reader" to give you a
-chance. That's pretty important to me, and if a couple of dollars'
-difference is what gets them to buy, I'm game.
+It could also be the case that a slightly lower price point will be enough to get that hypothetical "indecisive reader" to give you a chance. That's pretty important to me, and if a couple of dollars' difference is what gets them to buy, I'm game.
 
-But I didn't really come here today to talk about ebook pricing. I'm
-sure there are plenty of articles out there about that topic. What I'd
-like to talk about are the royalty options for Amazon's Kindle Direct
-Publishing specifically. You, the author, can choose the royalty you'd like to
-receive from the sale of each ebook. There are two options: 35% and
-"70%".
+But I didn't really come here today to talk about ebook pricing. I'm sure there are plenty of articles out there about that topic. What I'd like to talk about are the royalty options for Amazon's Kindle Direct Publishing specifically. You, the author, can choose the royalty you'd like to receive from the sale of each ebook. There are two options: 35% and "70%".
 
-Why did I put "70%" in quotes? Because it isn't exactly a 70%
-royalty. Or more precisely: it is a 70% royalty rate, but there are a
-lot of terms and conditions that you have to think about, and that
-might affect you in ways that aren't clear from the outset.
+Why did I put "70%" in quotes? Because it isn't exactly a 70% royalty. Or more precisely: it is a 70% royalty rate, but there are a lot of terms and conditions that you have to think about, and that might affect you in ways that aren't clear from the outset.
 
-After reading through the Kindle Direct pricing page [1] and
-doing a bit of basic math [2], I came up with a few things I think my fellow
-writers should be aware of when deciding on royalty options via
-Amazon. Keep in mind that there may be errors here. Please do read
-through my references and perform the relevant calculations for
-yourself [3].
+After reading through the Kindle Direct pricing page [1] and doing a bit of basic math [2], I came up with a few things I think my fellow writers should be aware of when deciding on royalty options via Amazon. Keep in mind that there may be errors here. Please do read through my references and perform the relevant calculations for yourself [3].
 
 * II: 35% is the KISS Option (Keep It Simple, Stupid)
 
-For every book you sell, Amazon pays you 35% of the list price that
-you set. The only condition worth noting at this royalty rate is that
-if your book is being offered at a discount elsewhere for promotional
-purposes, Amazon reserves the right to lower the price of your book to
-match (up to and including making it available for free). Again, this
-price-matching is only if your book is offered elsewhere for less. So,
-not a big deal, but something to be aware of.
+For every book you sell, Amazon pays you 35% of the list price that you set. The only condition worth noting at this royalty rate is that if your book is being offered at a discount elsewhere for promotional purposes, Amazon reserves the right to lower the price of your book to match (up to and including making it available for free). Again, this price-matching is only if your book is offered elsewhere for less. So, not a big deal, but something to be aware of.
 
-Additionally, you must set your List Price at Amazon to be no higher
-than the list price in any other sales channel you use. Essentially,
-you just have to give Amazon the same consideration as everyone
-else. Unless it violates the terms of another distributor you sell
-through, you're free to set your Amazon price at, say, 15% less than
-retail. Maybe you'd like to drive Kindle sales of your books. Maybe
-you like selling through Amazon because you like the way they pay you
-promptly or track your sales, etc. I don't know. But you have that
-option.
+Additionally, you must set your List Price at Amazon to be no higher than the list price in any other sales channel you use. Essentially, you just have to give Amazon the same consideration as everyone else. Unless it violates the terms of another distributor you sell through, you're free to set your Amazon price at, say, 15% less than retail. Maybe you'd like to drive Kindle sales of your books. Maybe you like selling through Amazon because you like the way they pay you promptly or track your sales, etc. I don't know. But you have that option.
 
 The formula for the 35% royalty can be expressed pretty simply.
 
@@ -84,42 +41,23 @@ paycheck [1].
 
 m = r * p * n.
 
-Pretty simple, it's just the number of books you sell, times the list
-price, times the royalty rate. Very easy to understand. It doesn't
-change, and you don't have to think about it too much.
+Pretty simple, it's just the number of books you sell, times the list price, times the royalty rate. Very easy to understand. It doesn't change, and you don't have to think about it too much.
 
 * III: 70% More Money, More Problems? Maybe Not
 
-So, 70% sounds pretty cool. I mean, after all, 70 is more than 35,
-right? There are some reasons why I'm a little wary, however.
+So, 70% sounds pretty cool. I mean, after all, 70 is more than 35, right? There are some reasons why I'm a little wary, however.
 
-The first thing to know is that if you choose the 70% royalty option,
-you /must set your List Price at least 20% below List Price in any
-other sales channel/. This means every other way that you sell your
-book, to include your own website, &c. Your 70% is now coming out of
-80% of your previous price.
+The first thing to know is that if you choose the 70% royalty option, you /must set your List Price at least 20% below List Price in any other sales channel/. This means every other way that you sell your book, to include your own website, &c. Your 70% is now coming out of 80% of your previous price.
 
-An example: you list your new book, /The Amazing Adventures of Captain
-Complexity/, for $2.99 on Barnes & Noble's PubIt! Store. To qualify
-for the 70% royalty on Amazon, you must list it for $2.99 * 0.80,
-which is $2.39.
+An example: you list your new book, /The Amazing Adventures of Captain Complexity/, for $2.99 on Barnes & Noble's PubIt! Store. To qualify for the 70% royalty on Amazon, you must list it for $2.99 * 0.80, which is $2.39.
 
-$2.39 * 0.7 is $1.67. For comparison, note that $2.99 * 0.35 is
-$1.05.
+$2.39 * 0.7 is $1.67. For comparison, note that $2.99 * 0.35 is $1.05.
 
-$1.67 is more than $1.05. Great! More money, case closed. Move on,
-nothing much to see here.
+$1.67 is more than $1.05. Great! More money, case closed. Move on, nothing much to see here.
 
-But there's more. When you choose the 70% option, you must also pay
-a per-megabyte delivery charge for each book you sell. As of this
-writing, that charge is $0.15 per MB for Amazon.com (US). Let's say
-that /The Amazing Adventures of Captain Complexity/ has some nice
-illustrations, and that it weighs in around 1.2 MB (I looked through
-my own ebook library and found that this is a representative
-size. Feel free to plug in different numbers to suit your own needs).
+But there's more. When you choose the 70% option, you must also pay a per-megabyte delivery charge for each book you sell. As of this writing, that charge is $0.15 per MB for Amazon.com (US). Let's say that /The Amazing Adventures of Captain Complexity/ has some nice illustrations, and that it weighs in around 1.2 MB (I looked through my own ebook library and found that this is a representative size. Feel free to plug in different numbers to suit your own needs).
 
-Since we've chosen the 70% option, we now pay a per-book network
-delivery fee. Since our book is 1.2 MB, that totals
+Since we've chosen the 70% option, we now pay a per-book network delivery fee. Since our book is 1.2 MB, that totals
 
 1.2 * 0.15 = $0.18
 
@@ -136,12 +74,7 @@ m = n * (r * ((0.8 * p) - (mb * d)))
 
 This is a little more involved, isn't it?
 
-There's more. We talked about Amazon's price-matching policy for the
-35% option above. To recap: if your book is available at a lower cost
-elsewhere, Amazon may lower your price to match. With the 70% option,
-if Amazon price-matches your book, there is another wrinkle. You are
-also charged for the taxes so that Amazon may offer a lower
-tax-inclusive price. This changes the above formula slightly.
+There's more. We talked about Amazon's price-matching policy for the 35% option above. To recap: if your book is available at a lower cost elsewhere, Amazon may lower your price to match. With the 70% option, if Amazon price-matches your book, there is another wrinkle. You are also charged for the taxes so that Amazon may offer a lower tax-inclusive price. This changes the above formula slightly.
 
 m = n * (R * ((0.8 * p) - t - (mb * d)))
 
@@ -149,19 +82,9 @@ where t = the applicable local taxes (VAT in the UK, for example).
 
 * IV: Head to Head Comparison, with an Evil Word Problem
 
-In order to understand these royalty schemes a bit better, I came up
-with a hypothetical situation, which is also known as a word
-problem. Though I didn't always enjoy them in school, they keep
-turning out to be useful. Here is mine:
+In order to understand these royalty schemes a bit better, I came up with a hypothetical situation, which is also known as a word problem. Though I didn't always enjoy them in school, they keep turning out to be useful. Here is mine:
 
-Let's say that you have been wildly successful, and sold 86,428 copies
-of your debut novel, /The Amazing Adventures of Captain Complexity/,
-via Amazon's Kindle Direct Publishing program. You've chosen a List
-Price of $2.99 for all of your various outlets, which include but are not
-limited to Amazon.com. Given the above formulas, how much money would you
-have earned if you'd chosen the 35% royalty? The 70%? (Note that this
-calculation is simpler than the reality we face, since we don't account
-for any price-matching or tax charges here)
+Let's say that you have been wildly successful, and sold 86,428 copies of your debut novel, /The Amazing Adventures of Captain Complexity/, via Amazon's Kindle Direct Publishing program. You've chosen a List Price of $2.99 for all of your various outlets, which include but are not limited to Amazon.com. Given the above formulas, how much money would you have earned if you'd chosen the 35% royalty? The 70%? (Note that this calculation is simpler than the reality we face, since we don't account for any price-matching or tax charges here)
 
 Well, the 35% option is straightforward. Remember that
 
@@ -171,11 +94,9 @@ so
 
 m = 0.35 * $2.99 * 86428.
 
-In this case, m will be $90,446.90. Nice chunk of (pre-tax)
-change, I must admit.
+In this case, m will be $90,446.90. Nice chunk of (pre-tax) change, I must admit.
 
-OK, Now let's look at the "70%" option (again, note that this
-hypothetical calculation is simpler than reality).
+OK, Now let's look at the "70%" option (again, note that this hypothetical calculation is simpler than reality).
 
 Our formula is
 
@@ -187,42 +108,20 @@ m = 86428 * (0.70 * ((0.8 * $2.99) - (1.2 MB * 0.15/MB))),
 
 where m = $133,825.12.
 
-Even better. Remember, though, what we said about this
-calculation. It's a simplified version of reality. In the real world,
-we'd have to ask: How many times did Amazon price-match below list?
-How much tax did you end up paying as a result?  Did the terms and
-conditions of your other distributors preclude you from doing the 20%
-list price cut in the first place? None of those variables are
-accounted for here, so think of this as a ballpark figure.
+Even better. Remember, though, what we said about this calculation. It's a simplified version of reality. In the real world, we'd have to ask: How many times did Amazon price-match below list? How much tax did you end up paying as a result?  Did the terms and conditions of your other distributors preclude you from doing the 20% list price cut in the first place? None of those variables are accounted for here, so think of this as a ballpark figure.
 
-To put it another way, had you chosen the 35% option, you would have
-received $1.05 per book (35% of $2.99). With the 70% option, you would
-have received $1.55 per book (this is 51.8%, not 70%).
+To put it another way, had you chosen the 35% option, you would have received $1.05 per book (35% of $2.99). With the 70% option, you would have received $1.55 per book (this is 51.8%, not 70%).
 
 * V: Conclusions
 
-Our simple calculations here showed that you would receive about 32% more
-money had you chosen the 70% royalty option. However, it's fair to assume that this
-percentage would be less in real-world situations, for all the
-reasons noted above.
+Our simple calculations here showed that you would receive about 32% more money had you chosen the 70% royalty option. However, it's fair to assume that this percentage would be less in real-world situations, for all the reasons noted above.
 
-Even given all that, it's fair to say that, on average, you will
-/likely/ receive more money from the 70% option. However, the process
-by which that occurs will be somewhat more opaque. You will have to think a
-little more about what is happening with your royalties. You will have
-to spend a little more time checking Amazon's terms and conditions and pricing
-pages to ensure that you're staying current on the latest changes
-(though you'll probably want to do this either way).
+Even given all that, it's fair to say that, on average, you will /likely/ receive more money from the 70% option. However, the process by which that occurs will be somewhat more opaque. You will have to think a little more about what is happening with your royalties. You will have to spend a little more time checking Amazon's terms and conditions and pricing pages to ensure that you're staying current on the latest changes (though you'll probably want to do this either way).
  
 Bottom line: for most people, most of the time, the 70% option is worth it.
 
 [1] https://kdp.amazon.com/self-publishing/help?topicId=A29FL26OKE7R7B
 
-[2] I used a computer algebra system called Maxima. Probably overkill
-for this simple work, but it's a great program that can do Calculus,
-solve algebraic equations, and more:  http://wxmaxima.sourceforge.net.
+[2] I used a computer algebra system called Maxima. Probably overkill for this simple work, but it's a great program that can do Calculus, solve algebraic equations, and more:  http://wxmaxima.sourceforge.net.
 
-[3] I am neither a lawyer or accountant. I'm just a random guy on the
-internet who can read (a little) and who has access to a
-calculator. So the usual comprehensive disclaimers of any and all
-liability should apply.
+[3] I am neither a lawyer or accountant. I'm just a random guy on the internet who can read (a little) and who has access to a calculator. So the usual comprehensive disclaimers of any and all liability should apply.
