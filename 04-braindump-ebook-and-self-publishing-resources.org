@@ -1,0 +1,86 @@
+#+DATE: [2012-01-03 Tue 15:09]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Linkdump
+#+TAGS: jelec, amazon, kindle, ebooks, publishing, links
+#+DESCRIPTION:
+#+TITLE: Linkdump: Ebook and Self-Publishing Resources
+
+[[./img/04-library.jpg]]
+
+I've spent a great deal of time over the last weeks compiling
+information on various facets of ebook creation, distribution,
+etc. I'll be digging into many of these topics at length in upcoming
+posts, but for today I'd like to give you a nice, juicy linkdump from
+my own notes for your reading pleasure.
+
+* LeanPub
+
+  http://leanpub.com/
+
+  'Leanpub' is a Canadian company that pays you a 90% royalty rate, minus
+  a $0.50 fee per book sold. You set your own price, and retain all
+  rights to the books, including the right to publish elsewhere (Amazon,
+  etc.) or sell to traditional publishers at some point. Their name is
+  a reference to the idea that you can publish works-in-progress and
+  get feedback along the way. In addition, you can publish
+  compilations of blogs. I've read a few books that were compilations
+  derived from blogs I like. It's a great format. I'm getting
+  pretty excited about these guys.
+
+* Kindle Direct
+
+  https://kdp.amazon.com/self-publishing/signin
+
+  Amazon offers 'Kindle Direct Publishing', whereby you sell your ebook
+  directly to Amazon's customers via their web store. There are two
+  royalty options: 35% and 70% (see [[http://jelec.wordpress.com/2011/12/29/amazon-royalty-options-which-one-is-best-for-you/][here]] for an analysis of their
+  royalty rates).
+
+* Smashwords
+
+  http://www.smashwords.com/
+
+  Smashwords is a distributor, and kind of a one-stop shop for taking
+  your book from humble Word document to an ebook for sale with Apple, Amazon, Barnes and Noble, and
+  more. Be aware that they take an additional royalty on top of the
+  royalties each of those stores takes (as I understand it). However, they make ebook
+  publishing dead simple, and do a lot of the book-creation and
+  distribution legwork for you. Marketing is still your problem, though.
+
+* Barnes & Noble PubIt!
+
+  http://pubit.barnesandnoble.com/pubit_app/bn?t=pi_reg_home
+
+  Barnes & Noble's direct sales channel for the Nook. It looks like it's
+  available via their website as well. 
+
+* J.A. Konrath's Blog
+
+  http://jakonrath.blogspot.com/
+
+  J.A. Konrath writes a lot about ebook and self-publishing at his
+  blog. He's gone from $40,000 salary midlister to being, in his words,
+  "in the top tax bracket." So it's only one data point, but you can
+  learn a lot about the game from reading his blog. 
+
+* Calibre Ebook Software
+
+  http://calibre-ebook.com
+
+  Calibre is a free ebook reader. It also does conversions among various
+  ebook formats. For those of you who are programmer-types, you can
+  bypass the GUI and script =calibre= using the command-line interface.
+
+* Writer Beware
+
+  http://www.sfwa.org/for-authors/writer-beware/
+
+  Finally, the SF & F writers of America (SFWA), which is sort of a trade
+  organization for traditionally published writers, has a page up that
+  has lots of useful links about scams and so forth, basically a
+  signpost for what to avoid. They're biased in favor of traditional
+  over self-publishing, but that is where their membership comes from,
+  after all. Still plenty of interesting and useful information there,
+  though.
+
+[Image courtesy [[http://www.flickr.com/people/the_pale_side_of_insomnia][the_pale_side_of_insomnia]] under [[http://creativecommons.org/licenses/by-nc-nd/2.0/][Creative Commons]] license.]
