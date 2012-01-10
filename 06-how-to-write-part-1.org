@@ -1,0 +1,57 @@
+#+POSTID: 79
+#+DATE: [2012-01-10 Tue 15:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: General, Fiction, How-To
+#+TAGS: fiction, how-to
+#+DESCRIPTION:
+#+TITLE: How to Write
+
+This is the first in a planned series of articles in which I will teach you
+how to write. More precisely: I will teach you how to /learn/ how to
+write.
+
+Perhaps you're wondering what qualifies me to make such a claim? It's
+only fair that I should share my qualifications. I have a Bachelor's
+degree in English, with a concentration in Creative Writing. While
+studying for that degree, I studied closely under two professors who
+were themselves published authors. During my time at a previous
+college, I was lucky enough to study under two equally talented,
+published writers.
+
+Bear in mind that when I say published, I don't mean published in an
+academic journal.
+
+Does this mean I'm a good writer? Am I claiming that the skill and
+success of others is somehow reflective of my own? No. But it means I've been around
+writers better than me. And that's important. If you want to learn how
+to write, you should /study those who are better than you, and
+politely disregard everyone else/.
+
+This does not mean that you should be rude or dismissive. Please note
+the use of the word 'politely.' I'm simply claiming that you will not
+improve by listening to advice from any of the following groups:
+
+- Non-Writing Friends and Family
+  They may know you personally, but it doesn't mean they know anything
+  about writing, or your writing in particular.
+- People who Don't Read Much
+  It's sad but true that many people simply don't read very much. How
+  could they possibly have any useful opinions about your writing if
+  they don't read? (Note that I am explicitly /not/ talking about
+  audiobook listeners here. I have a number of friends who enjoy
+  listening to audiobooks. They qualify as readers.)
+- People who Identify as "Writers" but who do not Actually Write Anything
+  /Writers write/. Non-writers who sit around and talk about writing
+  are an annoyance at best. At worst, they'll pull you down with
+  them. Avoid them.
+- Bad Writers
+  [[http://en.wikipedia.org/wiki/Dunning-Kruger_effect][Dunning-Kruger]] tells us that there are lots of bad writers out
+  there, and that I'm probably one of them. That's OK, nobody's
+  perfect. But be aware of this, and be especially aware of it if
+  you're not sure where /you/ stand. If you think you're pretty good,
+  chances are you're not. If you think you're pretty bad, you might be
+  right. Then again, you might be a genius. It's highly unlikely that
+  you're a genius. This is why I advise: /only study those who are better
+  than you/.
+
+Finally, don't listen to me.
