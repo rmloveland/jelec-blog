@@ -1,0 +1,47 @@
+#+POSTID: 93
+#+DATE: [2012-01-25 Wed 08:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Fiction, General, How-To
+#+TAGS: fiction, how-to
+#+DESCRIPTION:
+#+TITLE: How to Write, Part 0: Reading is Essence
+
+[[./img/07-books.jpg]]
+
+For the [[https://jelec.wordpress.com/2012/01/10/how-to-write-part-i-who-not-to-listen-to/][first]] post in this series, go [[https://jelec.wordpress.com/2012/01/10/how-to-write-part-i-who-not-to-listen-to/][here]].
+
+Why am I calling this Part 0, when I've already written Part I?
+Because in some ways, I needed to backtrack from the act of writing to
+that which comes first -- namely, reading.
+
+Like many writers, I spent a wonderful childhood surrounded by the
+imaginary creatures, people, and places found in books. Whatever was
+going on in the outside world was somehow less important than what went on in
+the latest book or story I found myself living inside.
+
+I've long suspected that this is a common phenomenon.
+
+My argument, therefore, is this: in order to write well, you must read
+a great deal. One of the best ways to learn remains /monkey see,
+monkey do/. No amount of workshopping, collaboration, or talking about
+your writing process will help you improve so much as burying your
+head in books for ten years. (Good books!)
+
+This does not mean workshops and
+collaboration are unimportant. It means that if you have not read a
+great deal, and do not possess the requisite familiarity with
+language, phrasing, grammar, and the like, you are walking into a
+workshop without the tools you need to do your best work. This does
+not mean you are lazy, or somehow unworthy, somehow "not good enough,"
+but that you are simply unprepared. One can go from being unprepared
+to a state of readiness. It's just a matter of time, and work. Anyone
+can do it, if his or her desire is great enough. Talent is almost
+always overcome by preparation and hard work, in the end.
+
+So many activities that surround writing and the writer's life are
+distractions. There is a mantra I've developed that serves as a
+reminder: /essence over ephemera/. Reading is essence.
+
+(Image courtesy [[http://www.flickr.com/photos/henrybloomfield/][henrybloomfield]] under [[http://creativecommons.org/licenses/by-nc-nd/2.0/][Creative Commons]] license.)
+
+#+./img/07-books.jpg http://jelec.files.wordpress.com/2012/01/wpid-07-books.jpg
