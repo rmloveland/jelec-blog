@@ -2,7 +2,7 @@
 #+DATE: [2012-01-25 Wed 08:32]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Fiction, General, How-To
-#+TAGS: fiction, how-to
+#+TAGS: fiction, how-to, how-to-write
 #+DESCRIPTION:
 #+TITLE: How to Write, Part 0: Reading is Essence
 
