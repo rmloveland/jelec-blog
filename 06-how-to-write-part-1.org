@@ -2,7 +2,7 @@
 #+DATE: [2012-01-10 Tue 15:21]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: General, Fiction, How-To
-#+TAGS: fiction, how-to
+#+TAGS: fiction, how-to, how-to-write
 #+DESCRIPTION:
 #+TITLE: How to Write, Part I: Who not to Listen to
 
@@ -12,6 +12,8 @@ This is the first in a planned series of articles in which I will teach you
 how to write. More precisely: I will teach you how to /learn/ how to
 write. The rest involves a great deal of hard work that you'll have to
 do for yourself.
+
+(Update: the second article is now available [[http://jelec.wordpress.com/2012/01/25/how-to-write-part-0-reading-is-essence/][here]].)
 
 Perhaps you're wondering what qualifies me to make such a claim? It's
 only fair that I should share my background. I have a Bachelor's
