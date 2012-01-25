@@ -1,0 +1,29 @@
+#+POSTID: 105
+#+DATE: [2012-01-25 Wed 09:44]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: General, Pages, Fiction, Commerce
+#+TAGS: fiction, jelec, meldrake, commerce
+#+DESCRIPTION: 
+#+TITLE: My Books
+
+[[./img/jelec-cover-small.jpg]]
+
+Have you ever wanted to transform into a bird and fly away?
+
+Have you ever wanted to speak to the animals in their own languages?
+
+Do you enjoy stories that feature poems and verse, magic spells and
+the secret names of things?
+
+Do you enjoy the occasional puzzle?
+
+If so, join 12-year-old Glynis McGinty and the raven Meldrake in the
+Realm of the White Bear as they solve puzzles and mysteries, meet
+other talking creatures of land and air, and have various
+magic-infused adventures!
+
+All of this adventuring is done with the
+goal of saving a group of lost children who've fallen in with the
+"wrong" magical crowd in this series of fantasy novellas from
+R.M. Loveland, the author of [[http://www.amazon.com/dp/B006U337YW][*Jelec, the White Bear*, or: /Beware an
+Encounter with a Raven and his Friends/]].
