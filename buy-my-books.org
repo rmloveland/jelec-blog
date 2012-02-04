@@ -2,28 +2,42 @@
 #+DATE: [2012-01-25 Wed 09:44]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: General, Pages, Fiction, Commerce
-#+TAGS: fiction, jelec, meldrake, commerce
+#+TAGS: fiction, jelec, meldrake, commerce, pages
 #+DESCRIPTION: 
 #+TITLE: My Books
 
+* Book One: Jelec, the White Bear
+  
 [[./img/jelec-cover-small.jpg]]
+
+** Description
 
 Have you ever wanted to transform into a bird and fly away?
 
 Have you ever wanted to speak to the animals in their own languages?
 
-Do you enjoy stories that feature poems and verse, magic spells and
-the secret names of things?
+Do you enjoy stories that feature poems and verse, magic spells and the secret names of things?
 
-Do you enjoy the occasional puzzle?
+If so, join 12-year-old Glynis McGinty and the raven Meldrake in the Realm of the White Bear as they solve puzzles and mysteries, meet other talking creatures of land and air, and have various magic-infused adventures!
 
-If so, join 12-year-old Glynis McGinty and the raven Meldrake in the
-Realm of the White Bear as they solve puzzles and mysteries, meet
-other talking creatures of land and air, and have various
-magic-infused adventures!
+Twelve-year-old Glynis McGinty works in the laundry room at a Victorian-era hotel near her home in the mountains. One day, she discovers a stained glass door in the basement storage, one decorated with a strange motif, and which holds an even stranger appeal: on the other side of that door are Meldrake the Raven and various (soon-to-be) friends, enemies, and others who fall somewhere in between. They are all inhabitants of a world rather like our own, equal parts magical and measurable, where bears and ravens speak in their own secret tongues and live in towns and cities of their own making. 
 
-All of this adventuring is done with the
-goal of saving a group of lost children who've fallen in with the
-"wrong" magical crowd in this series of fantasy novellas from
-R.M. Loveland, the author of [[http://www.amazon.com/dp/B006U337YW][*Jelec, the White Bear*, or: /Beware an
-Encounter with a Raven and his Friends/]].
+Over them all falls the long shadow of Jelec, the White Bear, who is also called the Protector, though no one still living can remember why he should have such a name. In fact, he has not been sighted in the realm which some call his in many years, and another power rises, one that aspires to hold the realm for its own.
+
+All of this adventuring is done with the goal of saving a group of lost children who've fallen in with the wrong magical crowd in this, the first book in a series of fantasy novellas from R.M. Loveland, the author of [[http://www.amazon.com/dp/B006U337YW][*Jelec, the White Bear*, or: /Beware an Encounter with a Raven and his Friends/]].
+
+** Chapter Listing:
+
+- Things that Slip Through the cracks
+- Honey Dragon
+- Glynis and Tree
+- Wedding Cake Boats
+- The Language of Birds
+- The Numbermaster's Hall
+- Silverbird and the Starling King
+- Long River's Edge
+- The Badger who Studied Verse
+- A Simple Recipe
+- Interlude: The King's Dream
+
+#+./img/jelec-cover-small.jpg http://jelec.files.wordpress.com/2012/01/wpid-jelec-cover-small.jpg
