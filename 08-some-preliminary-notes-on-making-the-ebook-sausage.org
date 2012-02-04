@@ -1,0 +1,25 @@
+#+POSTID: 137
+#+DATE: [2012-02-04 Sat 10:21]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: General, Ebooks, How-To
+#+TAGS: jelec, ebooks, computers, how-to
+#+DESCRIPTION:
+#+TITLE: Some Preliminary Notes on Making the Ebook Sausage
+
+[[./img/08-wizard.jpg]]
+
+So, you wanna make an ebook, huh?
+
+There are lots of folks and/or companies out there who will take your lovely Word document and, from that, generate all manner of ebook file formats, to wit: MOBI, EPUB, AZW, LRF, CBZ, DAISY, PDB, LIT, PRC, PKG, OPF, PDF, PDB, and PS, to name but a few [1]. MOBI and EPUB are the biggies, but not the only ones. [[http://www.smashwords.com/][Smashwords]] comes to mind as a place where they'll convert your opus. There are others, of course. You could always ask the mighty Google about them. Or, if you care at all about your privacy (even though it's half-dead already), avoid the All-Seeing Eye and use [[http://duckduckgo.com/][Duck Duck Go]] instead. (Not trying to boss you -- you can do what you want. Just sayin' is all.)
+
+If you don't know what all those weird file format acronyms stand for, it's OK. Just click the lovely links and read away. Or don't, and just know that there are several of them, they mostly do the same things (from our lowly authorial perspective), and you should only worry about them when you need to. Which is probably not just yet (but soon).
+
+If you're writing in Word (like many people), what I have to say here probably won't make a lot of sense to you. However, it might be of interest if you just want to see how someone else does it. I'll try to take it pretty slow, since a good deal of the stuff I'm going to talk about presupposes some really sad levels of computer nerdery. Lots of Friday nights lost to the gods of the machine, that sort of thing. Weight gained, neckbeards grown, women not spoken to. But if you stick with me, there'll be a payoff, I swear, and it's this: you'll be able to make your own ebooks pretty easily (provided you waste a bunch of time up front learning about it, but isn't that true of anything you want to learn to do?).
+
+Stay tuned for the first installment, in which we'll begin with the [[http://www.gnu.org/software/emacs][Emacs]] text editor, which is a truly wizardly tool that has sucked out my weak-willed human brain and replaced said brain with its own malevolent mechanical will. Verily, it is that same dark will which propels my shriveled hands across the keyboard as I type this. Surely you'd like to hear more about it? Don't be afraid!
+
+[1] http://en.wikipedia.org/wiki/Comparison_of_e-book_formats
+
+(Image courtesy [[http://www.flickr.com/photos/dshaboy/][dshaboy]] under [[http://creativecommons.org/licenses/by-nc-nd/2.0/][Creative Commons]] license.)
+
+#+./img/08-wizard.jpg http://jelec.files.wordpress.com/2012/02/wpid-08-wizard.jpg
