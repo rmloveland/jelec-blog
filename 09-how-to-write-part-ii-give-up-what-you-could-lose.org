@@ -1,0 +1,49 @@
+#+POSTID: 143
+#+DATE: [2012-02-10 Fri 11:30]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Fiction, General, How-to, Deliberate Practice
+#+TAGS: how-to, how-to-write, fiction, deliberate-practice
+#+DESCRIPTION:
+#+TITLE: How to Write, Part 2: Deliberate Practice, or, Give Up What You Could Lose
+
+[[./img/09-durer-knight-and-devil.jpg]]
+
+/Albrecht Dürer: Ritter, Tod und Teufel/
+
+* First: a Note I Wrote for You
+
+  It's come to my attention (via a friend who's much smarter than I am, and whose opinion I respect), that the tone of this blog is condescending. Upon reflection, I agree. Who am I, anyway, and more importantly, who do I think I am, that I should write these things, and in this way?
+
+The answer is that I'm just some random guy on the internet who has opinions about stuff. Those opinions may have value (or not), but the way in which they're presented could use improvement. I'm keeping that in mind going forward, and trying to be more real. Even if that's not cool. Just sayin'.
+
+* Second: That Said, Check out this Fortune Cookie I got Today
+  
+  #+BEGIN_VERSE
+  You must give up what you could lose in order to gain what you could not lose.
+  #+END_VERSE
+
+  I ate some Chinese food last night. Too much of it, in fact. Came away all bloated and depressed, ready to call it a year already and move on to 2013, as if that were possible. That's when I found this little gem. Little harbinger of serendipity, that. Saved me from thinking too much about the inevitable doom that awaits us all. Death, taxes, larger pant sizes, cavities, retirement (or lack thereof), you name it. Just doom and gloom, and turtles all the way down. Until this.
+  
+  Perhaps I've said too much?
+
+  In any case, amid the general waste and decay, the piles of wrinkled clothing and so on that surround me in this, my man-mole internet shut-in habitat, I came upon a wrinkled message from an angel. Or from the LORD, if you believe in such things. Cthulhu, anyone? Whomever the originator, the Prime Mover, if you will, it saved me and kept me strong to fight another day. This day.
+
+* Third: What in Tarnation does Any Of This Have to do with Writing?
+
+  Easy. Just list all the things that you /could/ lose, without which you'd still be able to function and, beyond that, even thrive. Yes, maybe you could even thrive. Perhaps you could do without your Tivo, your Netflix subscription? What about your favorite internet video games, or your (GASP) Angry Birds? What if you spent three days without seeing an Angry Bird? What would you do?
+
+  Why, you'd write, of course. And write some more. Think of all of the distractions you /could/ lose, that would allow you to /gain what you could not lose/. And if you're a writer, and love this stuff, and even think of being a "real" writer, one of those mythical, unicorn-like creatures which Absalom absconded with lo those many years ago, then the definition of /what you could not lose/ must absolutely include the time to practice your craft. No, not like I do it when I ramble here on the internet, but /really/ practicing, as in: "Deliberate practice," which is a term coined by Swedish research psychologist Anders Ericsson.
+
+  There's a [[http://www.theaustralian.com.au/news/health-science/success-is-all-in-the-mind/story-e6frg8gf-1111118649674][great introduction]] to the research and its general points in [[http://www.theaustralian.com.au/news/health-science/success-is-all-in-the-mind/story-e6frg8gf-1111118649674][this]] piece by Shelley Gare in the Australian.
+
+  Incidentally, I've read three of the books mentioned in that article, and they're worth a look: Colvin, Coyle, and Gladwell. I've listed them in alphabetical order, so as not to play favorites.
+
+  Let me close by adding a question and an answer, lest you think I'm ignorant of my own failings: Do I need to take my own advice here? Good heavens yes!
+
+  Ah! Dollop of the sweet cream that is metacognition! I salute you!
+
+  All best to you, my sweet readers, writers and dreamers of all kinds.
+
+  R.
+
+#+./img/09-durer-knight-and-devil.jpg http://jelec.files.wordpress.com/2012/02/wpid-09-durer-knight-and-devil.jpg
