@@ -1,0 +1,16 @@
+#+DATE: [2012-08-04 Sat 21:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Redirection
+#+TAGS: redirection
+#+DESCRIPTION: 
+#+TITLE: Moving to rmloveland.com
+
+[[../img/melisande-grass-maze.jpg]]
+
+(Image courtesy the amazing [[http://flickr.com/photos/melisande-origami][Melisande]]! under a [[http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en][Creative Commons]] license)
+
+For the two of you in the world who care (one of whom is me), I'm going to be writing at http://rmloveland.com for the time being. I'll be porting the articles here over to the new site, which will be written using my beloved [[http://gnu.org/software/emacs][Emacs]] and [[http://orgmode.org][Org]].
+
+Yes, it's true that I am a hopeless nerd.
+
+In any case: Allez, anonymous internet friends!
