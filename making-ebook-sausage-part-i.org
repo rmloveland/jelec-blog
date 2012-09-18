@@ -1,0 +1,20 @@
+#+DATE: [2012-09-18 Tue 11:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Ebooks, Computers
+#+TAGS: ebooks, computers
+#+DESCRIPTION:
+#+TITLE: Making the Ebook Sausage, Part I
+
+[INSERT IMAGE HERE]
+
+So, some time ago I told y'all I was going to show you how to make your own ebooks without relying on MS Word, or Smashwords, or what-have-you to do it. Well, that time has come. I apologize for it taking so long, but apologies are boring and nobody cares anyway.
+
+In addition to just ``learning how to make your own e-books," I'm going to show you how to do it in a way that uses 100% open-source technologies, and open formats. This means that you will have complete control over your tools and your written word, and you will never again be in a position where you're depending on MS Word and you get screwed. From now on, we will talk about open source products, open (usually plain text) document markup formats, and so on.
+
+* Step 1. Get a copy of Emacs 
+
+* Step 2. Write things in Plain Text
+
+* This is going somewhere, I promise
+
+(Image courtesy...)
