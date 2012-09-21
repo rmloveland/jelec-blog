@@ -3,7 +3,7 @@
 #+CATEGORY: Ebooks, Computers, Ebook Sausage, Document Markup, Backups
 #+TAGS: ebooks, computers, ebook-sausage, document-markup, backups
 #+DESCRIPTION:
-#+TITLE: Making the Ebook Sausage, Part 0: The Plan
+#+TITLE: Making the Ebook Sausage, Part 1: The Plan
 
 [[./img/rock-wizard.jpg]]
 
