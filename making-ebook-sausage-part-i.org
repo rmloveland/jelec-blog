@@ -1,3 +1,4 @@
+#+POSTID: 162
 #+DATE: [2012-09-18 Tue 11:20]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Ebooks, Computers, Ebook Sausage, Document Markup, Backups
@@ -36,3 +37,5 @@ Here's how I see things breaking out: each of the following subjects will get a 
 And finally, as a sop to those of us that are still working in Word or similar funky word-processing software, I'll show you how to convert word documents to text for long-term storage and backup. Depending upon my mood, I'll either start or end with it. In any case, it'll be there.
 
 (image courtesy [[http://www.flickr.com/photos/binaryape/][binaryape]] under [[http://creativecommons.org/licenses/by/2.0/deed.en][creative commons]] license)
+
+#+./img/rock-wizard.jpg http://jelec.files.wordpress.com/2012/09/wpid-rock-wizard.jpg
