@@ -1,20 +1,38 @@
 #+DATE: [2012-09-18 Tue 11:20]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
-#+CATEGORY: Ebooks, Computers
-#+TAGS: ebooks, computers
+#+CATEGORY: Ebooks, Computers, Ebook Sausage, Document Markup, Backups
+#+TAGS: ebooks, computers, ebook-sausage, document-markup, backups
 #+DESCRIPTION:
-#+TITLE: Making the Ebook Sausage, Part I
+#+TITLE: Making the Ebook Sausage, Part 0: The Plan
 
-[INSERT IMAGE HERE]
+[[./img/rock-wizard.jpg]]
 
-So, some time ago I told y'all I was going to show you how to make your own ebooks without relying on MS Word, or Smashwords, or what-have-you to do it. Well, that time has come. I apologize for it taking so long, but apologies are boring and nobody cares anyway.
+So, some time ago I told y'all I was going to show you how to make your own ebooks without relying on MS Word, or Smashwords, or who-and-what-have-you to do it. Well, that time has come. I'd apologize for it taking so long, but apologies are boring and nobody cares anyway. In this document I'm going to refer to ``Microsoft Word", or just ``Word", quite a bit. When I say ``Word", I'm just using that term as a placeholder to refer to any complicated piece of word-processing software that stores your work away in some kind of incomprehensible non-plaintext format. When I say ``Smashwords", I'm referring generically to any organization that's all like ``Hey bro, let me go ahead and format that Word document into an ebook for you. No, really, it's easy. Just read my 142-page Style Guide and do everything it says and life will be good." Yeah, bro. OK.
 
-In addition to just ``learning how to make your own e-books," I'm going to show you how to do it in a way that uses 100% open-source technologies, and open formats. This means that you will have complete control over your tools and your written word, and you will never again be in a position where you're depending on MS Word and you get screwed. From now on, we will talk about open source products, open (usually plain text) document markup formats, and so on.
+Now I'm not trying to pick on Smashwords /in particular/ here. I actually think it's an interesting company, and Mark Coker's presentations and free e-books for writers, not to mention the things that Smashwords actually does for you as an author, are extremely cool (from what I've seen). My real point is that perhaps you are growing tired of spending an enormous amount of time fighting with a proprietary black box (Word) owned by a company that has broken your shit in the past and that will probably do so again in the future (MS). You must then go and rely on another private company (Smashwords is one, there are many others) to do the fiddly work of converting your precious-but-horribly-encoded-by-Word manuscript into a format fit for consumption by ebook readers, &c.
 
-* Step 1. Get a copy of Emacs 
+Unfortunately, at no point in this process is your work made fit for long-term storage that can survive into the future. If the longevity of your work matters to you, Word ain't the way to go, my friend. Nor is EPUB. PDF? Nope. Nor any of the other binary/XML-hell formats that you'll find out there. Can you imagine your grandchildren ever finding your old manuscripts someday and reading through them? Your great-grandchildren? Well, guess what. This version of Word won't even be around then, nor will PDF. And the antiquated tech it's stored on will be long broken by the time your great-grand-daughter is old enough to read, much less read your stuff.
 
-* Step 2. Write things in Plain Text
+There are ways around this situation, however. The way I see it, there are two main ways of dealing with it.
 
-* This is going somewhere, I promise
+1. Continue to work in Word, etc., but learn how to backup to plain text for longevity. (We'll get to this.)
+   
+2. Dive into the world of plain text and lightweight document markup languages and learn how the ebook sausage is /really/ made.
 
-(Image courtesy...)
+Naturally I prefer the latter approach, as it's the one I've taken. It's the one I'll be focusing on in this, the ``Ebook Sausage" series of posts.
+
+In addition to just ``learning how to make your own e-books," I'm going to show you how to do it in a way that uses 100% open-source technologies and open formats. This means that you will have complete control over your tools and your written word, and you will never again be in a position where you're depending on MS Word or some other proprietary technology and you get screwed.
+
+Will it take some time to learn and get used to? Yes. But if you recall, it probably took you quite a while to get up to speed with Word. Remember how painful it was to upgrade from, like, Word 95 to Word 2000? (As you can see I'm not that familiar with Word versions, but bear with me). And did things get messed up, like all of your nice formatting? Were any of your documents ever ``corrupted"? (Whatever that means.) There's a better way. You don't have to live like that anymore! OK, I'm starting to sound like a Scientologist. Moving on...
+
+Here's how I see things breaking out: each of the following subjects will get a post all its own. At the end of this series, you'll be able to 
+
+- write things in plain text with a good editor
+- use lightweight document markup languages
+- use version control
+- keep backups
+- automate the ``build" process for new versions of your book
+
+And finally, as a sop to those of us that are still working in Word or similar funky word-processing software, I'll show you how to convert word documents to text for long-term storage and backup. Depending upon my mood, I'll either start or end with it. In any case, it'll be there.
+
+(image courtesy [[http://www.flickr.com/photos/binaryape/][binaryape]] under [[http://creativecommons.org/licenses/by/2.0/deed.en][creative commons]] license)
