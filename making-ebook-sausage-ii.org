@@ -1,0 +1,43 @@
+#+DATE: [2012-11-25 Sun 22:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Ebooks, Computers, Ebook Sausage, Document Markup
+#+TAGS: ebooks, computers, ebook-sausage, document-markup
+#+DESCRIPTION:
+#+TITLE: Making the Ebook Sausage, Part 2: Wrangling Text
+
+./img/foo.jpg
+
+* I
+
+Last time, I told you I'd take you through a multi-point plan for creating your own ebooks. I'll quickly recapitulate the list of subjects:
+
+- write things in plain text with a good editor
+- use lightweight document markup languages
+- use version control
+- keep backups
+- automate the ``build" process for new versions of your book
+
+We're now at the first subject, *Write things in plain text with a good editor*. There is only one editor which, in its majestic glory, is suitable for the herculean task of storing and editing your brilliance. In a word? [Emacs].
+
+Before I go any further, I'll quote a favorite author of mine, one Neal Stephenson. Here's what he had to say about Emacs:
+
+#+begin_quote
+the engineer-hours that, in the case of Microsoft Word, were devoted
+to features like mail merge, and the ability to embed feature-length
+motion pictures in corporate memoranda, were, in the case of emacs,
+focused with maniacal intensity on the deceptively simple-seeming
+problem of editing text. If you are a professional writer--i.e., if
+someone else is getting paid to worry about how your words are
+formatted and printed--emacs outshines all other editing software in
+approximately the same way that the noonday sun does the stars. It is
+not just bigger and brighter; it simply makes everything else vanish.
+#+end_quote
+
+If that paragraph /alone/ doesn't motivate you to learn Emacs, I'm afraid there's no help for you (although your immortal soul may still be saved by alternate means, to wit: that fickle and mighty god of /mere/ text editing known as [Vim]. But for now we'll focus on Emacs).
+
+* II
+
+
+
+
+
