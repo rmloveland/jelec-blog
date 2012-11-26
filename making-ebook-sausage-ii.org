@@ -1,43 +1,54 @@
+#+BLOG: jelec-blog
+#+POSTID: 164
 #+DATE: [2012-11-25 Sun 22:23]
 #+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
 #+CATEGORY: Ebooks, Computers, Ebook Sausage, Document Markup
 #+TAGS: ebooks, computers, ebook-sausage, document-markup
 #+DESCRIPTION:
-#+TITLE: Making the Ebook Sausage, Part 2: Wrangling Text
+#+TITLE: Making the Ebook Sausage, Part 2: Write in Plain Text
 
-./img/foo.jpg
+[[./img/denali-bear.jpg]]
 
-* I
+* I: Introduction
 
-Last time, I told you I'd take you through a multi-point plan for creating your own ebooks. I'll quickly recapitulate the list of subjects:
+Dear Internet Friends,
 
-- write things in plain text with a good editor
-- use lightweight document markup languages
-- use version control
-- keep backups
-- automate the ``build" process for new versions of your book
+Last time we met, I told you I'd take you through a multi-point plan for creating your own ebooks using powerful open-source applications. I'll quickly recapitulate the list of subjects we'll cover in this series:
 
-We're now at the first subject, *Write things in plain text with a good editor*. There is only one editor which, in its majestic glory, is suitable for the herculean task of storing and editing your brilliance. In a word? [Emacs].
+- Write things in plain text with a good editor
+- Use lightweight document markup languages
+- Use version control
+- Keep backups
+- Automate the ``build" process for new versions of your book
+
+We're now at the first subject, ``Write things in plain text with a good editor''. Since we're fellow writers (not to mention fast internet friends!), there is only one plain text editor which I can recommend for the herculean task of storing and editing the text of your opus. In a word? [[http://www.gnu.org/software/emacs/][Emacs]].
 
 Before I go any further, I'll quote a favorite author of mine, one Neal Stephenson. Here's what he had to say about Emacs:
 
 #+begin_quote
-the engineer-hours that, in the case of Microsoft Word, were devoted
-to features like mail merge, and the ability to embed feature-length
-motion pictures in corporate memoranda, were, in the case of emacs,
-focused with maniacal intensity on the deceptively simple-seeming
-problem of editing text. If you are a professional writer--i.e., if
-someone else is getting paid to worry about how your words are
-formatted and printed--emacs outshines all other editing software in
-approximately the same way that the noonday sun does the stars. It is
-not just bigger and brighter; it simply makes everything else vanish.
+...the engineer-hours that, in the case of Microsoft Word, were devoted to features like mail merge, and the ability to embed feature-length motion pictures in corporate memoranda, were, in the case of emacs, focused with maniacal intensity on the deceptively simple-seeming problem of editing text. If you are a professional writer--i.e., if someone else is getting paid to worry about how your words are formatted and printed--emacs outshines all other editing software in approximately the same way that the noonday sun does the stars. It is not just bigger and brighter; it simply makes everything else vanish.
 #+end_quote
 
-If that paragraph /alone/ doesn't motivate you to learn Emacs, I'm afraid there's no help for you (although your immortal soul may still be saved by alternate means, to wit: that fickle and mighty god of /mere/ text editing known as [Vim]. But for now we'll focus on Emacs).
+If that paragraph /alone/ doesn't motivate you to learn Emacs, I don't know what will. My perspective on the situation is that we must choose between using two wildly different types of software:
 
-* II
+1. An application written by programmers, often for no pay, targeted at an audience they understand and care about: themselves. Moreover, they use the program every day. In this category, we have Emacs.
 
+2. An application written by programmers, in exchange for a paycheck, targeted at an audience they do not understand and care about: people who use WYSIWYG [1] word processors. This program is definitely not used by programmers themselves, especially not on a daily basis. In this category we have Microsoft Word, and other word processing software of its kind.
 
+Based on the above, I choose Emacs.
 
+* most important point
 
+The most important thing to know about Emacs is that, from now on, you'll be working with plain text files only. As I alluded to in [my last post], the strength of plain text files is that they can't ever be ``corrupted'' or otherwise unable to be read by your editing application.
 
+* next most important point
+
+* least important point
+
+* IV: Conclusion
+
+(Image courtesy [[http://www.flickr.com/photos/blmiers2][blmiers2]] under [[http://creativecommons.org/licenses/by/2.0/deed.en][Creative Commons]] license.)
+
+[1] WYSIWYG: What you see is what you get.
+
+#+./img/denali-bear.jpg http://jelec.files.wordpress.com/2012/11/wpid-denali-bear.jpg
