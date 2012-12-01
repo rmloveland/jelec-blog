@@ -11,7 +11,7 @@
 
 /This just in: Bears love plain text!/
 
-* I: Introduction
+* Introduction
 
 Dear Internet Friends,
 
@@ -41,7 +41,7 @@ In other words, it's the difference between building tools for yourself that you
 
 * Getting Started
 
-First, you need to download an appropriate Emacs for your computer. See the following table for my recommendations:
+First, you need to download an appropriate Emacs for your computer. See the following table for my recommendations; I've used all of them successfully:
 
 | Operating System | Emacs `Type' | Website                                      |
 |------------------+--------------+----------------------------------------------|
@@ -62,20 +62,23 @@ There are a handful of commands you'll need to know to get started doing useful 
 | C-x u        | undo              | Undo the last edit.                                           |
 | C-a          | beginning-of-line | Jump to the beginning of the line.                            |
 | C-e          | end-of-line       | Jump to the end of the line.                                  |
+| M-x shell    | shell             | Opens your operating system's preferred command shell. [4]    |
 
-(Note that ``C-x C-f'' means ``while holding down the Control key, first enter x, then f.'' The other commands follow the same convention.)
+(Note that ``C-x C-f'' means ``while holding down the Control key, first enter x, then f.'' ``M-x shell'' translates as ``while holding down the Alt key, enter x. Then enter the command `shell'.'' The other commands follow the same convention.)
 
 There are many other commands available, but these will get you started. I highly recommend working through the built-in tutorial, which you can start by entering the key sequence ``C-h t''.
 
-One last thing: In addition to using the key sequences, you can run any of the commands from the table above by typing /M-x command-name/. In other words, while holding down what Emacs calls the ``Meta'' key (usually /Alt/ on modern keyboards), enter x, and then type the *Command Name* you want to execute. (For example, ``find-file'' from the table above.)
+One last thing: In addition to using the key sequences, you can run /any/ of the thousands of commands in Emacs using the ``M-x command'' technique described above.
 
 * The Emacs Customization File
 
-One thing you need to familiarize yourself with is the Emacs customization file. Generally speaking, this is a file under your home directory called ``.emacs''. (Its fully spelled out location on your hard drive is something like ``/Users/rloveland/.emacs'' or ``C:\Users\rml\.emacs'', depending on your operating system.) This is a plain text file containing instructions that customize the behavior of the editor. The author of a tutorial you find online might say something like ``Place the following code in your .emacs file: ...''. You'll do that by entering ``C-x C-f /Home/Directory/.emacs''. In English, that's ``While holding down the Control key, first enter x, then enter f. Then type in the location of the file''. Make your edits, and then save.
+Something you will eventually need to familiarize yourself with is the Emacs customization file. Like most applications preferred by programmers, Emacs reads its configuration options from a plain text file. Generally speaking, this is a file under your home directory called ``.emacs''. (Its fully spelled out location on your hard drive is something like ``/Users/rloveland/.emacs'' or ``C:\Users\rml\.emacs'', depending on your operating system.) This file contains instructions that customize the behavior of the editor. The author of a tutorial you find online might say something like ``Place the following code in your .emacs file: ...''. You'll do that by entering ``C-x C-f C:\Users\rml\.emacs''. In English, that's ``While holding down the Control key, first enter x, then enter f. Then type in the location of the file''. Make your edits, and then save with ``C-x C-s''.
 
-If you try to start Emacs with a customization file that has an error in it, Emacs will still start, but it will let you know something is wrong by opening up a window with an error message that looks like this:
+If you try to start Emacs with a customization file that has an error, Emacs will still start up, but it will let you know something is wrong by opening up a window with an error message that looks like this:
 
 [[./img/ebook-sausage-02/02-emacs-startup-error.png]]
+
+Unlike some other applications, Emacs can still continue to operate normally despite the error. You can still visit files, edit them, save them, etc. If there is an error in your customization file, you will not be able to use the customizations that you have created, but that is all: the editor will still function without them.
 
 If you make changes to your =.emacs= file that cause problems, the easiest way to undo the changes is to visit your =.emacs= file again, remove the most recent changes, and restart Emacs. If that still doesn't work, you can tell Emacs to start without reading its customization file by opening a terminal and entering the following command:
 
@@ -83,15 +86,16 @@ If you make changes to your =.emacs= file that cause problems, the easiest way t
 $ emacs -q
 #+end_quote
 
-For more information, you can read the full Emacs manual right inside Emacs itself by entering ``C-h i'' or ``M-x info''. This will show a listing of all the available documentation. Navigate to the ``Emacs'' heading and press Enter.
+For more information, you can read the full Emacs manual right inside Emacs itself by entering ``C-h i'' or ``M-x info''. This will show a listing of all the available documentation. Navigate to the ``Emacs'' heading and press Enter. You can also read it online at http://www.gnu.org/software/emacs/manual/html_node/emacs.
 
-* Org-Mode
+* Conclusion
 
-* IV: Conclusion
+That's probably enough information to get you started using Emacs. If this seems like a lot of trouble to go to, ask yourself whether having precise control of your work at every level, from editing to backups to document formatting to final publishing, is important to you. If you are the kind of person who likes to do things yourself, if you would like to publish your own ebooks without needing to give up a percentage (and a certain amount of control) to an outside person or company, and if you are serious about your work as a writer, Emacs deserves your consideration.
 
 [1] You can get a copy at  http://www.cryptonomicon.com/beginning.html
 [2] For a definition of ``open source'', see http://opensource.org/osd
 [3] WYSIWYG is an acronym for ``What you see is what you get''.
+[4] If you don't know what a command shell is, you can read more at http://linuxcommand.org/ (for Linux/Mac OS X users) or http://en.wikipedia.org/wiki/Cmd.exe (for Windows users).
 
 (Image courtesy [[http://www.flickr.com/photos/blmiers2][blmiers2]] under [[http://creativecommons.org/licenses/by/2.0/deed.en][Creative Commons]] license.)
 
@@ -99,3 +103,5 @@ For more information, you can read the full Emacs manual right inside Emacs itse
 
 #+./img/ebook-sausage-02/01-emacs-startup.png http://jelec.files.wordpress.com/2012/11/wpid-01-emacs-startup.png
 #+./img/ebook-sausage-02/02-emacs-startup-error.png http://jelec.files.wordpress.com/2012/11/wpid-02-emacs-startup-error.png
+
+#+./img/gnu-recorder-small.jpg http://jelec.files.wordpress.com/2012/12/wpid-gnu-recorder-small.jpg
