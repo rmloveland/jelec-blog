@@ -1,0 +1,19 @@
+#+DATE: [2013-01-16 Wed 07:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS:
+#+DESCRIPTION:
+#+TITLE: Do You Have a Quiet Time, Early in the Morning
+
+#+BEGIN_VERSE
+Do you have a quiet time, early in the morning,
+when the snow lining a tree branch
+is filled with a race of tiny beings
+(not unlike your uncle or your sister)
+and for whom the tree is a universe set apart,
+or at least a celestial mountain with a spirit and a name.
+There is a place on that mountain,
+high above the mysterious plain
+(and where the wind is still strong),
+below which they will not go.
+#+END_VERSE
