@@ -1,0 +1,23 @@
+#+BLOG: Jelec, the White Bear
+#+POSTID: 195
+#+DATE: [2013-02-27 Wed 07:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Poems
+#+TAGS: poems
+#+DESCRIPTION:
+#+TITLE: A Storehouse, Half-Full
+
+#+BEGIN_VERSE
+An old friend,
+the pine right here.
+And Sunday the wind on that crag
+taught me how to grow a tree sideways.
+
+If there's a dog's bark chirping
+at a storehouse, half-full,
+then all will be revealed.
+
+If and only if
+the light gets through
+where the mitred corners meet.
+#+END_VERSE
