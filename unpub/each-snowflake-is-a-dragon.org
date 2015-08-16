@@ -1,0 +1,18 @@
+#+BLOG: jelec
+#+POSTID: 204
+#+DATE: [2014-01-25 Sat 11:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Poems
+#+TAGS: poems
+#+DESCRIPTION:
+#+TITLE: Each Snowflake is a Dragon
+
+#+BEGIN_VERSE
+Each snowflake is a dragon
+or a white sword, which is to say:
+a different half of the same heart.
+
+No free dragons, these:
+freshly manacled, falling like planets or thieves,
+seeking the center of the earth.
+#+END_VERSE
